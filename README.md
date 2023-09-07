@@ -1,2 +1,8 @@
-# creation
-making 1st step
+<html>
+</head>
+<title></title>
+</head>
+<body>
+<hi>HELLO developer</hi>
+</body>
+</html>
