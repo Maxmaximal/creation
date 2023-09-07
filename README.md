@@ -6,3 +6,5 @@
 <hi>HELLO developer</hi>
 </body>
 </html>
+<title>hello
+</title>
